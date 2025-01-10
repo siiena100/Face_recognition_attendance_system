@@ -39,7 +39,3 @@ This system is ideal for environments where accurate and efficient attendance ma
 - Integration of **Deep Learning Models** (e.g., CNNs) for improved recognition accuracy.
 - Addition of **Emotion Recognition** and enhanced **security measures** for more comprehensive systems.
 - Improved **scalability** to cater to larger organizations and environments.
-
-## GUI 
-![Face Recognition GUI](Face_recognition_project\GUI.png)
-
