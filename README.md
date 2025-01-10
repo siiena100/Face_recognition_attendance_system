@@ -41,5 +41,5 @@ This system is ideal for environments where accurate and efficient attendance ma
 - Improved **scalability** to cater to larger organizations and environments.
 
 ## GUI 
-![Face Recognition GUI]("C:\Users\SWARNALI CHAKRABORTY\OneDrive\Desktop\Project\Face_recognition_project\GUI.png")
+![Face Recognition GUI](Face_recognition_project\GUI.png)
 
